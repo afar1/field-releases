@@ -27,4 +27,4 @@ Use the source repositories for everything else:
 
 - `afar1/fieldtheory`: Field Theory Mac app source;
 - `afar1/fieldtheory-cli`: Field Theory CLI;
-- `afar1/fieldtheory-plugin`: Field Theory plugin ecosystem.
+- `afar1/fieldtheory-plugin`: Field Theory Codex plugin and skills.
