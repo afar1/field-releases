@@ -2,7 +2,16 @@
 
 This repository contains packaged Field Theory Mac release artifacts.
 
-It is not the Field Theory app source repository.
+It is not the Field Theory app source repository and does not contain source code.
+
+## Repository Family
+
+Field Theory is split across sibling repositories:
+
+- [`afar1/fieldtheory`](https://github.com/afar1/fieldtheory): Field Theory Mac app source.
+- [`afar1/fieldtheory-cli`](https://github.com/afar1/fieldtheory-cli): Field Theory CLI.
+- [`afar1/fieldtheory-plugin`](https://github.com/afar1/fieldtheory-plugin): Field Theory Codex plugin and skills.
+- [`afar1/field-releases`](https://github.com/afar1/field-releases): this release feed.
 
 ## What Belongs Here
 
@@ -25,6 +34,6 @@ Use this repository only for installer, download, update-feed, or release-artifa
 
 Use the source repositories for everything else:
 
-- `afar1/fieldtheory`: Field Theory Mac app source;
-- `afar1/fieldtheory-cli`: Field Theory CLI;
-- `afar1/fieldtheory-plugin`: Field Theory Codex plugin and skills.
+- [`afar1/fieldtheory`](https://github.com/afar1/fieldtheory): Field Theory Mac app source;
+- [`afar1/fieldtheory-cli`](https://github.com/afar1/fieldtheory-cli): Field Theory CLI;
+- [`afar1/fieldtheory-plugin`](https://github.com/afar1/fieldtheory-plugin): Field Theory Codex plugin and skills.
