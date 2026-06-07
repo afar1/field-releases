@@ -25,8 +25,6 @@ Use this repository only for installer, download, update-feed, or release-artifa
 
 Use the source repositories for everything else:
 
-- `afar1/fieldtheory`: planned app source repository after private-first audit and approval;
+- `afar1/fieldtheory`: Field Theory Mac app source;
 - `afar1/fieldtheory-cli`: Field Theory CLI;
-- `afar1/fieldtheory-plugin`: planned plugin ecosystem repository.
-
-The app source repository will be linked here after the private-first release prep is approved.
+- `afar1/fieldtheory-plugin`: Field Theory plugin ecosystem.
